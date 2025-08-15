@@ -38,46 +38,40 @@
       ]
     }
   ],
-  "work": 
-  "volunteer": [
+  
+  "work": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "company": "University of Hawaii",
+      "position": "Professor, Information and Computer Sciences",
+      "website": "https://www.ics.hawaii.edu",
+      "startDate": "1990",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Conduct teaching and research in software engineering",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Director, Collaborative Software Development Laboratory, 1990-present",
+        "Professor, 2001-present",
+        "Associate Chair, 2010-2016",
+        "Associate Professor, 1995-2010",
+        "Assistant Professor, 1990-1995"
       ]
     }
   ],
-  "awards": [
+  "volunteer": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "organization": "School of Engineering, Blekinge Institute of Technology",
+      "website": "https://www.bth.se/eng/",
+      "position": "Visiting Professor",
+      "startDate": "2006",
+      "endDate": "",
+      "summary": "Research in software engineering"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "organization": "Distributed Systems Technology Centre, University of Queensland",
+      "website": "https://www.uq.edu.au/",
+      "position": "Senior Research Fellow",
+      "startDate": "1997",
+      "endDate": "",
+      "summary": "Research in computer supported cooperative work"
     }
   ],
   "references": [
@@ -85,4 +79,3 @@
       "name": "Available upon request"
     }
   ]
-}
