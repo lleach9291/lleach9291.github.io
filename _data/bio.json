@@ -1,26 +1,22 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "LaQuita Leachman",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/laquitaleachman.png",
+    "email": "lleach9291@my.sullivan.edu",
+    "phone": "463-204-9626",
+    "website": "https://lleach9291.github.io",
+    "summary": "I am studying for a Certificate in Web Development at Sullivan University in Louisville Kentucky. I expect to graduate in Fall, 2025.",
+    "location": { "address": "", "postalCode": "40205", "city": "Louisville", "countryCode": "USA", "region": "Kentucky" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
-    ]
+      { "network": "github", "username": "lleachman", "url": "http://github.com/laquitaleachman" },
+      { "network": "linkedin", "username": "laquitaleachman", "url": "http://linkedin.com/in/laquitaleachman" },
+     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Web Design" },
+    { "name": "Web Development" },
+  
   ],
   "skills": [
     {
