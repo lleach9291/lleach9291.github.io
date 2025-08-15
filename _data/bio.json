@@ -9,9 +9,8 @@
     "summary": "I am studying for a Certificate in Web Development at Sullivan University in Louisville Kentucky. I expect to graduate in Fall, 2025.",
     "location": { "address": "", "postalCode": "40205", "city": "Louisville", "countryCode": "USA", "region": "Kentucky" },
     "profiles": [
-      { "network": "github", "username": "lleachman", "url": "http://github.com/laquitaleachman" },
-      { "network": "linkedin", "username": "laquitaleachman", "url": "http://linkedin.com/in/laquitaleachman" },
-     ]
+      { "network": "github", "username": "lleach9291", "url": "http://github.com/laquitaleachman" },
+   ]
   },
   "interests": [
     { "name": "Web Design" },
